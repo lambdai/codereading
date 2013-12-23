@@ -1,0 +1,2 @@
+http://www.erlang-factory.com/upload/presentations/633/Metaprogramming.pdf
+http://www.erlang.org/doc/apps/erts/absform.html
